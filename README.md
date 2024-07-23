@@ -19,7 +19,7 @@
 
 <p align="center"> Билд и ресурсы проекта на GitHub
       <p align="center">
-<a href="https://github.com/PiRaMiDeON/PixelSmash_Devlog" target="_blank"><img style="margin: 10px" 
+<a href="https://github.com/PiRaMiDeON/client-server-project-testTask" target="_blank"><img style="margin: 10px" 
 src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/1200px-GitHub_Icon.svg.png" alt="C#" height="50" /></a>
 </p>
 
