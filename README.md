@@ -37,4 +37,4 @@ src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/12
 
 ## Лицензия
 
-Проект ClientServerTestProject распространяется под лицензией <MIT>.
+Проект ClientServerTestProject распространяется под лицензией MIT.
