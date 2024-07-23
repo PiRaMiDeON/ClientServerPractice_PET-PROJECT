@@ -24,7 +24,12 @@ src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/12
 </p>
 
 # Используемые ассеты
-- 
+- [Окружение](https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052)
+- [Модель персонажа](https://assetstore.unity.com/packages/3d/characters/humanoids/casual-1-anime-girl-characters-185076)
+- [Работа с камерой](https://github.com/Unity-Technologies/com.unity.cinemachine)
+- [Управление зависимостями](https://assetstore.unity.com/packages/tools/utilities/extenject-dependency-injection-ioc-157735)
+- [Создание ассет бандлов](https://docs.unity3d.com/Packages/com.unity.addressables@1.22/manual/index.html)
+- [UI](https://assetstore.unity.com/packages/2d/gui/icons/sleek-essential-ui-pack-170650)
 
 ## Разработчик
 
@@ -32,4 +37,4 @@ src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/12
 
 ## Лицензия
 
-Проект PixelSmash распространяется под лицензией <Лицензия появится позже>.
+Проект ClientServerTestProject распространяется под лицензией <MIT>.
