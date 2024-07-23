@@ -23,7 +23,7 @@
 src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/1200px-GitHub_Icon.svg.png" alt="C#" height="50" /></a>
 </p>
 
-# Используемые ассеты
+## Используемые ассеты
 - [Окружение](https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052)
 - [Модель персонажа](https://assetstore.unity.com/packages/3d/characters/humanoids/casual-1-anime-girl-characters-185076)
 - [Работа с камерой](https://github.com/Unity-Technologies/com.unity.cinemachine)
